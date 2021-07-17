@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="other_info">Other Info</string>
+    <string name="textview">TextView</string>
+</resources>
